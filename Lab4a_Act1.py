@@ -11,3 +11,4 @@
 print("The entire bee movie script")
 print("wazzup")
 print("This was typed locally")
+print("This was typed through the browser")
